@@ -1,5 +1,4 @@
 ![WhatsApp Image 2024-05-09 at 22 40 16](https://github.com/Sandaruwan2000/Garage_Management_Systerm/assets/147098751/121d275d-0047-4b26-b9bb-9a20329ef1d6)
-![EG - Copy](https://github.com/Sandaruwan2000/Garage_Management_Systerm/assets/147098751/25b2d88c-c5ee-42e4-b84d-43bddbd56f54)
 ![service progress supervisor's profile - Copy](https://github.com/Sandaruwan2000/Garage_Management_Systerm/assets/147098751/155c4190-5c0f-4b57-9b1f-8fae3d3b3d60)
 ![login](https://github.com/Sandaruwan2000/Garage_Management_Systerm/assets/147098751/ec3a3ad2-a2ea-4827-af88-d72374b4816e)
 ![service progress supervisor's profile](https://github.com/Sandaruwan2000/Garage_Management_Systerm/assets/147098751/eb33863d-7993-41ed-bedd-cc7a9c159475)
